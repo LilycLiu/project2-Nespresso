@@ -37,6 +37,7 @@
 
 #logo{
     background-color: black;
+    filter: invert(1);
 }
 .logoBar{
    display: flex; 
