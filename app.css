@@ -587,10 +587,8 @@ footer i {
     }
 }
 
-
-
 @media screen and (max-width:1160px) {
     .endadv{
         flex-direction: column;
     }
-}
+}}
