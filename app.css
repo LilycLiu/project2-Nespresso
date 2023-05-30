@@ -574,10 +574,8 @@ footer i {
         flex-direction: column;
 
     }
-}
 
-
-@media screen and (max-width:745px) {
+@media screen and (max-width:1080px) {
     .firstadv {
         flex-direction: column;
     }
@@ -588,6 +586,8 @@ footer i {
         flex-direction: column;
     }
 }
+
+
 
 @media screen and (max-width:1160px) {
     .endadv{
